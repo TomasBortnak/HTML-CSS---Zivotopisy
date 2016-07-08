@@ -1,0 +1,34 @@
+#sekcia1 > h3, #sekcia2 > h3, #sekcia3 > h3, #sekcia4 > h3 {
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    margin-right: 0.5rem;
+    width: 12%;
+}
+
+#sekcia1 > div.osobneUdaje, #sekcia2 > div.vzdelanie, #sekcia3 > div.pracovneSkusenosti, #sekcia4 > div.osobneZrucnosti {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    width: 70%;
+}
+
+header{
+    margin-left: 4%;
+}
+
+dt{
+    font-family: "Times New Roman", sans-serif;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+}
+

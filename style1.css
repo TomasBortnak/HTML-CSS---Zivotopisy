@@ -1,0 +1,30 @@
+body{
+    background-image: url("europass-for-the-job.png");
+}
+h1{
+    color: #013871;
+    font-size: 60px;
+}
+h2{
+    color: #0f86ff;
+    margin-left: 1%;
+}
+dl{
+    margin-left: 3%;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #0f86ff;
+    color: white;
+}
